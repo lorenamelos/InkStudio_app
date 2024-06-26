@@ -61,5 +61,5 @@ Thank you for choosing InkStudio to simplify your tattoo quoting process! We loo
 
 ---
 
-For more information and to access the app, visit: [InkStudio](https://inkstudio.streamlit.app/)
+
 
